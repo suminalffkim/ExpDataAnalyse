@@ -118,4 +118,5 @@ if __name__ == '__main__':
 
             xdata=1/(data[:,0]/10)
             print(xdata)
+            #hier weiter machen
             params = auswertung_102d(data)
